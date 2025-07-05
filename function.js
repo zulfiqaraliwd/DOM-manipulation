@@ -96,7 +96,6 @@
 //     }
 // }
 
-// div.innerHTML = "<h1>Muhammad Usman </h1> "
 
 
 
